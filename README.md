@@ -1,7 +1,12 @@
-# html-to-text
+# html2text
 
 [![Build Status](https://travis-ci.org/werk85/node-html-to-text.svg?branch=master)](https://travis-ci.org/werk85/node-html-to-text)
 [![Test Coverage](https://codeclimate.com/github/werk85/node-html-to-text/badges/coverage.svg)](https://codeclimate.com/github/werk85/node-html-to-text/coverage)
+
+Fork from [html-to-text](https://www.npmjs.com/package/html-to-text). Difference:
+1. `format` option support all elements.
+
+===
 
 An advanced converter that parses HTML and returns beautiful text. It was mainly designed to transform HTML E-Mail templates to a text representation. So it is currently optimized for table layouts.
 
